@@ -108,6 +108,6 @@ These resources are liscensed under SIL Open Font License 1.1. for more informat
 
 * **Alex Vosnakis** 
 * **Armaan Mcleoud**  
-* **Wei How Ng** 
+* **Bilal Shehata**
 * **Jennifer Fong** 
-* **Bilal Shehata** 
+* **Wei How Ng** 
